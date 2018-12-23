@@ -1,0 +1,11 @@
+
+<suite thread-count="2" verbose = "1" name = "skSuite1" parallel = "class">
+	<test name = "skTes2">
+		<classes>
+			<class name = "com.practice.testPackage.TestNGPractice122320182"></class>
+		</classes>
+	</test>
+</suite>
+
+
+

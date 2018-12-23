@@ -1,0 +1,11 @@
+
+<suite name = "skSuite1">
+	<test name = "skTest1">
+		<classes>
+			<class name = "com.practice.testPackage.TestNGPractice122320181"></class>
+		</classes>
+	</test>
+</suite>
+
+
+
